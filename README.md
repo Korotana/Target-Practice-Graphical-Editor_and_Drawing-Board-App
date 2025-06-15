@@ -1,4 +1,4 @@
-Both projects are built with Java, JavaFX.
+Both projects are built with Java.
 
 The Drawing Board focuses on creating state machine diagrams. Users can create and link state nodes, edit them, and pan the workspace. It demonstrates concepts like 2D graphics, MVC architecture, and synchronized views.
 
